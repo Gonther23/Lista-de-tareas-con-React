@@ -1,0 +1,24 @@
+{
+  "notas": [
+    {
+      "id": "6b8e",
+      "text": "Pasear al perro",
+      "completed": false
+    },
+    {
+      "id": "2f69",
+      "text": "Comprar Comida",
+      "completed": false
+    },
+    {
+      "id": "ab45",
+      "text": "Leer un libro",
+      "completed": false
+    },
+    {
+      "id": "352e",
+      "text": "Saltar una barda",
+      "completed": false
+    }
+  ]
+}
