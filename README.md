@@ -4,6 +4,8 @@ Aplicación web desarrollada con **React + Vite** que permite gestionar tareas d
 
 🔗 **Aplicación en producción:**  
 👉 https://lista-de-tareas-con-react.vercel.app/
+🔗 **JSON en producción:**  
+👉 https://json-server-lpkb.onrender.com/notas
 
 ---
 
